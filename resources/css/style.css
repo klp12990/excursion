@@ -1,7 +1,7 @@
 h1{
   font-family: Verdana;
   font-weight: normal;
-  font-size: 50px
+  font-size: 50px;
   color: white;
 }
 
@@ -11,6 +11,24 @@ p{
 }
 
 body{
-  background-color: black;
   text-align: center;
+  background-color: black;
+}
+
+.gray{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+h2{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.right{
+  text-align: right;
+  color: gray;
 }
